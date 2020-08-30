@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=CB2E6D)
 
 ### 📈 Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rlekni&count_private=true&show_icons=truetheme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rlekni&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **rlekni/rlekni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
